@@ -21,7 +21,7 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore SimpleWinFormsChatbot_OneForm/SimpleWinFormsChatbot_OneForm.csproj
+      run: dotnet restore SimpleWinFormsChatbot_OneForm/SimpleWinFormsChatbot_OneForm.csproj -p:EnableWindowsTargeting=true
     - name: Build
-      run: dotnet build  SimpleWinFormsChatbot_OneForm/SimpleWinFormsChatbot_OneForm.csproj --no-restore
+      run: dotnet build  SimpleWinFormsChatbot_OneForm/SimpleWinFormsChatbot_OneForm.csproj --no-restore -p:EnableWindowsTargeting=true
    
