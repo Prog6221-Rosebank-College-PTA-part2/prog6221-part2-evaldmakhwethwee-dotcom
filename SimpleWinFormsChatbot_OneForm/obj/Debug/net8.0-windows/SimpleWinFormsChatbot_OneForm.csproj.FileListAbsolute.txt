@@ -1,0 +1,16 @@
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\greeting.wav
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.exe
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.deps.json
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.runtimeconfig.json
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.dll
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\bin\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.pdb
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.AssemblyInfoInputs.cache
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.AssemblyInfo.cs
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.csproj.CoreCompileInputs.cache
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.sourcelink.json
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.dll
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\refint\SimpleWinFormsChatbot_OneForm.dll
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.pdb
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\SimpleWinFormsChatbot_OneForm.genruntimeconfig.cache
+C:\Users\MAKHWETHE\Documents\GitHub\prog6221-part2-evaldmakhwethwee-dotcom\SimpleWinFormsChatbot_OneForm\obj\Debug\net8.0-windows\ref\SimpleWinFormsChatbot_OneForm.dll
