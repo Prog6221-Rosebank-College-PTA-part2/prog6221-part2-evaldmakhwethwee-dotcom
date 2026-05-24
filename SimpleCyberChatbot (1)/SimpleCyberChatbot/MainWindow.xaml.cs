@@ -24,6 +24,7 @@ namespace SimpleCyberChatbot
             AddBotMessage("Hello! I am your Cybersecurity Awareness Chatbot.");
             AddBotMessage("Ask me about password, scam, privacy, or phishing.");
             AddBotMessage("You can also type: My name is Thabo, I am interested in privacy, Tell me more, or What do you remember?");
+            AddBotMessage("You can also type: My name is Thabo, I am interested in privacy, Tell me more, or What do you remember?");
         }
 
         private void PlayVoiceGreeting()
