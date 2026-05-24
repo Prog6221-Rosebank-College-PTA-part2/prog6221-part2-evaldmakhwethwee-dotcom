@@ -36,24 +36,24 @@
             // 
             // listBox1
             // 
+            listBox1.BackColor = Color.Yellow;
+            listBox1.ForeColor = Color.Blue;
             listBox1.FormattingEnabled = true;
             listBox1.Location = new Point(169, 116);
             listBox1.Name = "listBox1";
             listBox1.Size = new Size(490, 184);
             listBox1.TabIndex = 0;
-            listBox1.ForeColor = System.Drawing.Color.Blue;
-            listBox1.BackColor = System.Drawing.Color.Yellow;
             // 
             // button1
             // 
+            button1.BackColor = Color.Brown;
             button1.Location = new Point(565, 355);
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
-            button1.TabIndex = 1;  
+            button1.TabIndex = 1;
             button1.Text = "send";
-            button1.UseVisualStyleBackColor = true;
+            button1.UseVisualStyleBackColor = false;
             button1.Click += button1_Click;
-            button1.BackColor = System.Drawing.Color.Brown;
             // 
             // textBox1
             // 
@@ -65,9 +65,11 @@
             // label1
             // 
             label1.AutoSize = true;
+            label1.Font = new Font("Segoe UI", 16F);
+            label1.ForeColor = SystemColors.ActiveCaption;
             label1.Location = new Point(188, 61);
             label1.Name = "label1";
-            label1.Size = new Size(67, 20);
+            label1.Size = new Size(121, 37);
             label1.TabIndex = 3;
             label1.Text = "ChatApp";
             // 
