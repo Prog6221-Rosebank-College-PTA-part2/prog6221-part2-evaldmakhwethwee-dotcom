@@ -11,7 +11,8 @@
         <ListBox x:Name="lstChat" Height="260"/>
         <TextBox x:Name="txtMessage" Height="50" Margin="0,0,0,10"/>
         <Button Content="Send Chat" Height="30" Click="Button_Click" Margin="0,0,0,10"/>
-       
+        <Button Content="clear" Click="Button_Click_2"/>
+
 
     </StackPanel>
 </Window>

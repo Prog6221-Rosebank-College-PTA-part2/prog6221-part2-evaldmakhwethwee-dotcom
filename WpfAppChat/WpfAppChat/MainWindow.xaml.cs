@@ -41,5 +41,20 @@ namespace WpfAppChat
         {
 
         }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            string message = txtMessage.Text.ToLower();
+                lstChat.Items.Add("You:" + txtMessage.Text);
+                if (message.Contains("hello"))
+                {
+                    lstChat.Items.Add($"Bot: Hello to you too");
+                }
+                else
+                {
+                    lstChat.Items.Add("bot: i do not understand you");
+                }
+                txtMessage.Clear();
+        }
     }
 }
