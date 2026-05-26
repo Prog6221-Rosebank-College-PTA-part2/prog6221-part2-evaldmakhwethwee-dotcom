@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAKHWETHE\\Documents\\GitHub\\WinFormsChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{152DF7E8-EBE0-4659-899D-03DDDF31D7BC}|WinFormsChat\\WinFormsChat.csproj|c:\\users\\makhwethe\\documents\\github\\winformschat\\winformschat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{152DF7E8-EBE0-4659-899D-03DDDF31D7BC}|WinFormsChat\\WinFormsChat.csproj|solutionrelative:winformschat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MAKHWETHE\\Documents\\GitHub\\WinFormsChat\\WinFormsChat\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsChat\\Form1.cs",
+              "ToolTip": "C:\\Users\\MAKHWETHE\\Documents\\GitHub\\WinFormsChat\\WinFormsChat\\Form1.cs [Design]",
+              "RelativeToolTip": "WinFormsChat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T19:11:26.367Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
