@@ -42,7 +42,7 @@
             label1.Name = "label1";
             label1.Size = new Size(146, 47);
             label1.TabIndex = 0;
-            label1.Text = "chatapp";
+            label1.Text = "chatapp two";
             // 
             // button1
             // 
@@ -50,7 +50,7 @@
             button1.Name = "button1";
             button1.Size = new Size(94, 29);
             button1.TabIndex = 1;
-            button1.Text = "Send";
+            button1.Text = "Send chat";
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
